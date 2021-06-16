@@ -1,0 +1,132 @@
+30
+A1 4
+K 8
+Q 0
+G 8
+abcdefghijklmnopqrstuvwxyz1234 2
+V 1
+J 0
+Z 3
+H 6
+123456789_ABCabc 9
+R 9
+F 3
+Y 9
+M 5
+T 0
+S 5
+W 10
+L 10
+C3 4
+B2 10
+_ 1
+E5 8
+N 0
+X 8
+P 1
+O 10
+D4 6
+U 4
+I 0
+1234567890 0
+100
+W
+E5
+V
+W
+Q
+U
+C3
+O
+K
+V
+C3
+H
+123456789_ABCabc
+Z
+F
+N
+B2
+A1
+123456789_ABCabc
+G
+C3
+P
+Q
+A1
+M
+G
+M
+G
+E5
+W
+1234567890
+B2
+123456789_ABCabc
+M
+M
+C3
+M
+O
+S
+W
+abcdefghijklmnopqrstuvwxyz1234
+I
+U
+W
+T
+K
+Z
+M
+M
+L
+1234567890
+F
+N
+X
+J
+Y
+abcdefghijklmnopqrstuvwxyz1234
+A1
+G
+T
+B2
+D4
+X
+123456789_ABCabc
+1234567890
+C3
+F
+H
+L
+N
+Y
+J
+D4
+H
+P
+K
+D4
+X
+R
+F
+H
+G
+abcdefghijklmnopqrstuvwxyz1234
+abcdefghijklmnopqrstuvwxyz1234
+A1
+I
+W
+V
+U
+L
+Y
+1234567890
+H
+123456789_ABCabc
+Q
+H
+123456789_ABCabc
+U
+P
+Q

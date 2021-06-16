@@ -1,0 +1,67 @@
+15
+R 7
+L 7
+S 4
+P 5
+M 10
+J 3
+1234567890 8
+V 0
+D4 9
+abcdefghijklmnopqrstuvwxyz1234 1
+W 6
+A1 4
+T 6
+I 8
+E5 0
+50
+A1
+P
+V
+P
+E5
+D4
+R
+J
+M
+E5
+abcdefghijklmnopqrstuvwxyz1234
+L
+W
+S
+A1
+L
+1234567890
+P
+W
+E5
+1234567890
+1234567890
+P
+abcdefghijklmnopqrstuvwxyz1234
+T
+L
+J
+abcdefghijklmnopqrstuvwxyz1234
+T
+I
+W
+A1
+R
+A1
+P
+J
+J
+M
+V
+A1
+T
+A1
+E5
+1234567890
+R
+1234567890
+1234567890
+I
+abcdefghijklmnopqrstuvwxyz1234
+abcdefghijklmnopqrstuvwxyz1234

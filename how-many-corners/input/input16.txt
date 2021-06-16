@@ -1,0 +1,22 @@
+10
+Y 1
+C3 7
+V 1
+X 4
+abcdefghijklmnopqrstuvwxyz1234 7
+E5 0
+1234567890 6
+S 7
+123456789_ABCabc 4
+G 8
+10
+G
+abcdefghijklmnopqrstuvwxyz1234
+123456789_ABCabc
+1234567890
+abcdefghijklmnopqrstuvwxyz1234
+123456789_ABCabc
+E5
+E5
+V
+S

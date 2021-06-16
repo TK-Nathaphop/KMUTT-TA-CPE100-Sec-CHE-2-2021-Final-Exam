@@ -1,0 +1,62 @@
+10
+Y 1
+C3 7
+V 1
+X 4
+abcdefghijklmnopqrstuvwxyz1234 7
+E5 0
+1234567890 6
+S 7
+123456789_ABCabc 4
+G 8
+50
+Y
+Y
+C3
+123456789_ABCabc
+abcdefghijklmnopqrstuvwxyz1234
+E5
+G
+E5
+S
+1234567890
+V
+E5
+G
+E5
+123456789_ABCabc
+1234567890
+123456789_ABCabc
+X
+1234567890
+S
+C3
+E5
+123456789_ABCabc
+E5
+E5
+X
+S
+abcdefghijklmnopqrstuvwxyz1234
+V
+C3
+123456789_ABCabc
+1234567890
+V
+S
+S
+X
+V
+X
+Y
+S
+G
+1234567890
+G
+1234567890
+V
+E5
+G
+abcdefghijklmnopqrstuvwxyz1234
+V
+G

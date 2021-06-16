@@ -1,0 +1,116 @@
+14
+Circle 0
+Triangle 3
+Square 4
+Rectangle 4
+Pentagon 5
+Hexagon 6
+Heptagon 7
+Octagon 8
+Star 10
+rhombus 4
+Square_Pyramid 5
+Cube 8
+Sphere 0
+Triangle_Prism 6
+100
+Heptagon
+Triangle_Prism
+Square_Pyramid
+rhombus
+Rectangle
+Triangle_Prism
+Pentagon
+Square
+Pentagon
+Circle
+Circle
+Pentagon
+Rectangle
+Cube
+Hexagon
+Heptagon
+Pentagon
+rhombus
+Octagon
+rhombus
+Sphere
+Star
+Square
+Triangle_Prism
+Square_Pyramid
+Star
+Octagon
+Rectangle
+Square_Pyramid
+Circle
+Triangle
+Sphere
+Square
+Heptagon
+Circle
+Hexagon
+Cube
+rhombus
+Rectangle
+Square
+rhombus
+rhombus
+rhombus
+rhombus
+Triangle_Prism
+Hexagon
+Cube
+Cube
+Star
+Triangle_Prism
+Heptagon
+rhombus
+Circle
+Sphere
+Pentagon
+Triangle_Prism
+Cube
+Star
+Square_Pyramid
+Triangle_Prism
+Heptagon
+Circle
+Triangle_Prism
+Triangle
+Hexagon
+Square
+Octagon
+Hexagon
+Pentagon
+Heptagon
+Octagon
+Triangle
+Octagon
+Circle
+Star
+Octagon
+Cube
+Octagon
+Pentagon
+Octagon
+Pentagon
+Octagon
+Sphere
+Octagon
+rhombus
+Circle
+Heptagon
+Rectangle
+Square_Pyramid
+Square_Pyramid
+rhombus
+Cube
+Octagon
+Square_Pyramid
+Star
+Heptagon
+Heptagon
+Sphere
+rhombus
+Cube

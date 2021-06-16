@@ -1,0 +1,12 @@
+4
+Square_Pyramid 5
+Cube 8
+Sphere 0
+Triangle_Prism 6
+6
+Triangle_Prism
+Square_Pyramid
+Cube
+Cube
+Sphere
+Cube

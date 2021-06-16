@@ -1,0 +1,27 @@
+15
+R 7
+L 7
+S 4
+P 5
+M 10
+J 3
+1234567890 8
+V 0
+D4 9
+abcdefghijklmnopqrstuvwxyz1234 1
+W 6
+A1 4
+T 6
+I 8
+E5 0
+10
+W
+P
+P
+P
+J
+R
+E5
+1234567890
+D4
+W

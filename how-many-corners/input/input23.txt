@@ -1,0 +1,72 @@
+20
+N 10
+1234567890 5
+D4 3
+O 0
+C3 8
+I 6
+V 7
+S 5
+Q 6
+J 9
+Y 8
+U 8
+K 3
+Z 6
+G 4
+W 10
+123456789_ABCabc 3
+X 0
+T 9
+H 2
+50
+O
+I
+T
+1234567890
+123456789_ABCabc
+V
+J
+G
+123456789_ABCabc
+H
+G
+I
+J
+X
+D4
+V
+N
+G
+V
+Q
+O
+O
+G
+123456789_ABCabc
+W
+J
+J
+V
+V
+Q
+H
+N
+X
+T
+K
+I
+T
+Q
+I
+G
+K
+T
+J
+J
+J
+G
+I
+S
+N
+Y

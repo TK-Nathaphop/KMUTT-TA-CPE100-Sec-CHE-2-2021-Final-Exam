@@ -1,0 +1,82 @@
+30
+A1 4
+K 8
+Q 0
+G 8
+abcdefghijklmnopqrstuvwxyz1234 2
+V 1
+J 0
+Z 3
+H 6
+123456789_ABCabc 9
+R 9
+F 3
+Y 9
+M 5
+T 0
+S 5
+W 10
+L 10
+C3 4
+B2 10
+_ 1
+E5 8
+N 0
+X 8
+P 1
+O 10
+D4 6
+U 4
+I 0
+1234567890 0
+50
+N
+X
+I
+1234567890
+T
+R
+A1
+H
+G
+H
+R
+_
+H
+V
+R
+H
+D4
+U
+M
+_
+P
+Y
+abcdefghijklmnopqrstuvwxyz1234
+K
+V
+Z
+O
+Z
+T
+B2
+J
+T
+M
+L
+1234567890
+F
+O
+Z
+F
+E5
+I
+Y
+Z
+E5
+R
+I
+_
+H
+F
+K
