@@ -1,0 +1,201 @@
+100
+a 23
+a 8
+a 14
+g 1
+h 20
+h 44
+c 18
+g 6
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 29
+e 47
+b 4
+^^^^^/////123456 12
+d 33
+c 15
+c 22
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 40
+d 30
+a 38
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 50
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 32
+d 30
+b 25
+f 13
+e 20
+c 8
+a 41
+c 17
+d 28
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 22
+^^^^^/////123456 17
+b 9
+^^^^^/////123456 21
+f 1
+f 47
+f 21
+d 19
+a 16
+g 45
+b 10
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 23
+h 23
+a 14
+f 23
+f 27
+a 37
+g 7
+f 12
+e 33
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 45
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 26
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 37
+a 49
+c 31
+b 31
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 42
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 11
+d 34
+b 2
+c 31
+h 3
+e 33
+a 24
+b 11
+h 46
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 15
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 39
+d 23
+a 42
+c 50
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 20
+a 32
+d 19
+h 23
+e 24
+h 30
+b 25
+b 12
+c 1
+^^^^^/////123456 44
+h 7
+h 43
+a 28
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 22
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 20
+d 21
+e 14
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 6
+^^^^^/////123456 4
+a 17
+d 24
+^^^^^/////123456 12
+a 50
+c 48
+h 13
+^^^^^/////123456 8
+e 15
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 9
+d 12
+b 17
+a 13
+a
+a
+a
+g
+h
+h
+c
+g
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+e
+b
+^^^^^/////123456
+d
+c
+c
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+d
+a
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+d
+b
+f
+e
+c
+a
+c
+d
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+^^^^^/////123456
+b
+^^^^^/////123456
+f
+f
+f
+d
+a
+g
+b
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+h
+a
+f
+f
+a
+g
+f
+e
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+a
+c
+b
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+d
+b
+c
+h
+e
+a
+b
+h
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+d
+a
+c
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+a
+d
+h
+e
+h
+b
+b
+c
+^^^^^/////123456
+h
+h
+a
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+d
+e
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+^^^^^/////123456
+a
+d
+^^^^^/////123456
+a
+c
+h
+^^^^^/////123456
+e
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+d
+b
+a

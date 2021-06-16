@@ -1,0 +1,101 @@
+50
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 1
+h 31
+g 25
+g 34
+d 47
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 3
+c 38
+c 32
+c 6
+a 37
+g 4
+b 2
+d 46
+e 23
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 8
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 3
+e 33
+d 21
+g 35
+e 29
+a 48
+f 39
+b 35
+g 15
+g 48
+b 31
+h 48
+c 45
+a 25
+c 14
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 7
+d 41
+^^^^^/////123456 13
+b 14
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 50
+b 36
+h 47
+f 17
+b 11
+e 49
+b 26
+h 19
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 44
+g 6
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 17
+e 25
+a 4
+g 39
+e 5
+d 36
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+h
+g
+g
+d
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+c
+c
+c
+a
+g
+b
+d
+e
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+e
+d
+g
+e
+a
+f
+b
+g
+g
+b
+h
+c
+a
+c
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+d
+^^^^^/////123456
+b
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+b
+h
+f
+b
+e
+b
+h
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+g
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+e
+a
+g
+e
+d

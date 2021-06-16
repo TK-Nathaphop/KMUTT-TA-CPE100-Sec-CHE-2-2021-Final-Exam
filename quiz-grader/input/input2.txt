@@ -1,0 +1,9 @@
+4
+velocity=50m/s 5
+displacement=100m 5
+acceleration=10m/s^2 10
+mass=15km 10
+velocity=50m/s
+displacement=120m
+acceleration=20m/s^2
+mass=50km

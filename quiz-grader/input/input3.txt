@@ -1,0 +1,51 @@
+25
+d 23
+b 5
+c 42
+e 17
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 31
+d 6
+b 36
+h 50
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 32
+c 32
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 15
+f 21
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 35
+g 6
+d 27
+b 37
+e 36
+d 28
+c 34
+e 50
+^^^^^/////123456 34
+c 9
+^^^^^/////123456 49
+d 34
+g 7
+d
+b
+c
+e
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+d
+b
+h
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+c
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+f
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+g
+d
+b
+e
+d
+c
+e
+^^^^^/////123456
+c
+^^^^^/////123456
+d
+g

@@ -1,0 +1,151 @@
+75
+a 9
+c 6
+b 37
+c 22
+a 20
+^^^^^/////123456 20
+a 34
+g 10
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 32
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 32
+e 23
+h 50
+a 32
+h 11
+^^^^^/////123456 10
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 38
+f 25
+g 37
+b 46
+^^^^^/////123456 37
+c 17
+f 9
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 26
+g 26
+d 47
+f 46
+h 25
+^^^^^/////123456 38
+b 43
+h 9
+g 17
+h 20
+f 8
+e 25
+^^^^^/////123456 5
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 19
+^^^^^/////123456 42
+e 41
+g 39
+f 36
+b 32
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 44
+d 33
+a 15
+a 6
+g 38
+g 41
+f 35
+b 47
+a 18
+^^^^^/////123456 10
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 43
+f 16
+c 3
+f 26
+g 45
+b 18
+d 9
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 4
+d 22
+f 24
+a 11
+c 38
+e 10
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz 22
+g 18
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 43
+h 12
+e 23
+a 44
+^^^^^/////123456 5
+e 33
+^^^^^/////123456 45
+c 41
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms 5
+a
+a
+f
+c
+^^^^^/////123456
+^^^^^/////123456
+b
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+d
+f
+h
+f
+g
+^^^^^/////123456
+a
+f
+g
+g
+^^^^^/////123456
+c
+h
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+g
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+a
+h
+^^^^^/////123456
+b
+d
+e
+g
+f
+e
+^^^^^/////123456
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+h
+e
+b
+c
+b
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+a
+a
+g
+c
+^^^^^/////123456
+b
+a
+^^^^^/////123456
+c
+f
+c
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+g
+b
+1234567890123456789^^//msabcdefghiklmnopqrstuvwxyz
+c
+d
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+a
+^^^^^/////123456
+e
+g
+e
+b
+h
+e
+a
+d
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
+^^^^^/////123456
+d
+abcdefghiklmnopqrstuvwxyz1234567890123456789^^//ms
